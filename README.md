@@ -1,2 +1,2 @@
-# data-science-and-analytics
+# data-analytics
 PWSKILLS COURSE
